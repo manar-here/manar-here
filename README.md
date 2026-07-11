@@ -27,21 +27,25 @@ Languages:
 - C
 - C++
 - SQL
+- Assembly
 
 Hardware:
-- ESP32
+- ESP32 / ESPA32-CAM
 - Arduino
+- STM32
 
 Tools:
 - Git
 - Linux
 - MATLAB
 - Simulink
+- Cisco Packet Tracer
 
 ## Current Projects
 
-- Smart Assistive System for Visually Impaired Users
-- Accessible Transportation Database
+- NeuroSight an AI-powered wearable assistive system designed to help visually impaired individuals using ESP32-CAM and computer vision.
+- Smart Transportation Database System designed to improve accessibility for Deaf and Hard-of-Hearing passengers.
+- Secure Satellite Communication IoT System using Cisco Packet Tracer And ESP32
 - Satellite On-Board Computer (Upcoming)
 - CubeSat Mission Design (Upcoming)
 
